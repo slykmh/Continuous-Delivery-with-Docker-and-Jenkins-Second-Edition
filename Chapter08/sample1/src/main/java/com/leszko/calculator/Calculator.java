@@ -1,4 +1,7 @@
-//comment this is a calculator
+/**
+* Comment
+* This is a calculator
+*/
 package com.leszko.calculator;
 
 import org.springframework.cache.annotation.Cacheable;
